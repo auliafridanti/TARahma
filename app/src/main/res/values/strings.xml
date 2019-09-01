@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Monpaud</string>
+    <string name="login_sebagai">Login Sebagai</string>
+    <string name="guru">Guru</string>
+    <string name="orangtua">Orangtua</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="masukan_password">masukan password</string>
+    <string name="login_guru">Login Guru</string>
+    <string name="login_orangtua">Login Orangtua</string>
+    <string name="scroll">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="app_name0">Daftar Kelompok</string>
+    <string-array name="android_dropdown_arrays">
+        <item>Pilih Kelompok</item>
+        <item>Kelompok 1(2-3th)</item>
+        <item>Kelompok 2(3-4th)</item>
+    </string-array>
+    <string name="app_name1">Semester</string>
+    <string-array name="android_dropdown_arrays1">
+        <item>Pilih Semester</item>
+        <item>Semester Genap</item>
+        <item>Semester Ganjil</item>
+    </string-array>
+    <string name="nama_siswa">Nama siswa</string>
+    <string name="nilai">Nilai</string>
+    <string name="kembali">Kembali</string>
+</resources>
